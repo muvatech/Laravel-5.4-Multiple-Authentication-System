@@ -1,7 +1,7 @@
 # Laravel 5.4 Multiple Authentication System
 Creating Laravel Multiple Authentication System Using Default Authentication System in Laravel 5.4 
 
-##Introduction
+## [Introduction](http://muva.co.ke/blog/laravel-5-4-multiple-authentication-system-using-default-authentication-system/)
 In this tutorial we are going to build multiple authentications system in Laravel 5.4 without using
 packages. We are going to build this system in a simple, clean and in a way that is natural to
 Laravel, we will be extending what we do when we run this command: php artisan make:auth
@@ -16,6 +16,6 @@ We have created an eight part tutorial series, here are the topics that we are g
 7. Part VII: [Logging Out with Multiple User Authentication System in Laravel 5.4](http://muva.co.ke/blog/part-vii-logging-multiple-user-authentication-system-laravel-5-4/)
 8. Part VIII: Password Reset in our Multiple Authentication System for Laravel 5.4
 
-##Conclusion
+## Conclusion
 We hope that this tutorial has given you a perspective of how to implement multiple authentication system in Laravel 5.4 and now you can create your guard.
  
